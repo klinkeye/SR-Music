@@ -13,7 +13,7 @@ Once you have done the above, go ahead and start up the SRS client, SRS server, 
 You will be presented with a connection splash screen.  Ensure that the SRS server is running, then enter the server port, as shown in the below image.
 
 #### Remote Connections & Multiplayer
-The restriction of remote connections has been removed. This COULD cause people to use this tool for EVIL. Please dont. I modified this for our own squadron's use and we maintain our own servers. I believe in the open source, community driven software philosophy. Hopefully others will find this useful in non-Evil ways!
+The restriction of remote connections has been removed in this fork. This COULD cause people to use this tool for EVIL. Please dont. I modified this for our own squadron's use and we maintain our own servers. I believe in the open source, community driven software philosophy. Hopefully others will find this useful in non-Evil ways!
 
 ![Alt text](images/Screenshot2.PNG?raw=true "Optional Title")
 
